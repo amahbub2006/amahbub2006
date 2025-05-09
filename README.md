@@ -1,5 +1,7 @@
 ## Hi, I'm Azfar Mahbub
 
+![image](https://github.com/user-attachments/assets/e936ee09-50cf-4e32-929d-1c5a5c66553b)
+
 ## About Me
 
 - Passionate Student, learning how to develop
