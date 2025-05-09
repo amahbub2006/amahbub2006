@@ -1,7 +1,6 @@
 ## Hi, I'm Azfar Mahbub
 
-![image](https://github.com/user-attachments/assets/9008e888-b576-446f-9aa2-f4a6c3a4315f)
-
+<img src="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif" width="100%" height="auto"/>
 
 ## About Me
 
