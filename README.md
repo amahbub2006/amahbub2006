@@ -1,6 +1,7 @@
 ## Hi, I'm Azfar Mahbub
 
-![image](https://github.com/user-attachments/assets/e936ee09-50cf-4e32-929d-1c5a5c66553b)
+![image](https://github.com/user-attachments/assets/9008e888-b576-446f-9aa2-f4a6c3a4315f)
+
 
 ## About Me
 
