@@ -4,14 +4,12 @@
 
 ## About Me
 
-- Passionate Student, learning how to develop
-- Currently building web apps and machine learning tools using Python  
+- Passionate Student, learning how to develop web apps and deployable end to end projects using Python  
 - Interested in Machine Learning, Computer Vision, and AWS Cloud Deployment  
 
 ## Let's Connect
 
-[LinkedIn](https://linkedin.com/in/a3mahbub-tech)  
-[GitHub](https://github.com/amahbub2006)  
+[LinkedIn](https://linkedin.com/in/a3mahbub-tech)
 [Email](mailto:mahbubazfar@gmail.com)
 
 ## Projects I'm proud of
