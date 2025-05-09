@@ -1,8 +1,6 @@
 ## Hi, I'm Azfar Mahbub
 
-<div style="background-color: black; padding: 30px 0; text-align: center;">
-  <img src="https://i.gifer.com/Mr3W.gif" style="height: 200px;" />
-</div>
+<img src="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif" width="100%" height="auto"/>
 
 ## About Me
 
