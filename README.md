@@ -1,6 +1,6 @@
 ## Hi, I'm Azfar Mahbub
 
-<img src="[https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif](https://gifer.com/en/JYOl)" style="width: 100%; height: 200px; object-fit: cover;" />
+<img src="[https://gifer.com/en/gifs/technology)" style="width: 100%; height: 200px; object-fit: cover;" />
 
 ## About Me
 
