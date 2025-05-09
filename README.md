@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi I'm Azfar Mahbub
 
-<!--
-**amahbub2006/amahbub2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- Passionate Student, learning how to develop
+- Currently building web apps and machine learning tools using Python  
+- Interested in Machine Learning, Computer Vision, and AWS Cloud Deployment  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's Connect
+
+[LinkedIn](https://linkedin.com/in/a3mahbub-tech)  
+[GitHub](https://github.com/amahbub2006)  
+[Email](mailto:mahbubazfar@gmail.com)
