@@ -4,8 +4,12 @@
 
 ## About Me
 
-- Passionate Student, learning how to develop web apps and deployable end to end projects using Python  
-- Interested in Machine Learning, Computer Vision, and AWS Cloud Deployment  
+- Passionate Student, learning how to develop web apps and deployable end to end projects using Python and C
+- Interested in Machine Learning, Computer Vision, and AWS Cloud Deployment
+
+## Currently I am:
+
+Probably trying to debug something for 20 hours
 
 ## Let's Connect
 
