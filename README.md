@@ -13,7 +13,7 @@ Probably trying to debug something for 20 hours
 
 ## Let's Connect
 
-[LinkedIn](https://linkedin.com/in/a3mahbub-tech)
+[LinkedIn](https://www.linkedin.com/in/amahbubdev/)
 [Email](mailto:mahbubazfar@gmail.com)
 
 ## Projects I'm proud of
