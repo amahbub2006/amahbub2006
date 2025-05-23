@@ -4,7 +4,7 @@
 
 ## About Me
 
-- Passionate Student, learning how to develop web apps and deployable end to end projects using Python and C
+- Passionate Student, learning how to develop web apps and deployable end to end projects using Python and C++
 - Interested in Machine Learning, Computer Vision, and AWS Cloud Deployment
 
 ## Currently I am:
